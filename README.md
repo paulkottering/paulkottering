@@ -9,14 +9,3 @@ Additionally, I have had the chance to mentor students in mathematical concepts 
 I am currently seeking new opportunities in the ML/Data Science field to apply my skills and contribute to innovative solutions. If you are in need of a data enthusiast with a strong foundation in mathematics, physics, and computer science, let's connect!
 
 Please feel free to contact me at paulkottering@gmail.com or 510-316-3731. Additionally, you are welcome to browse through my repositories to get a better understanding of my projects.
-
-Languages & Tools:
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia)
